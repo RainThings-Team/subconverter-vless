@@ -38,6 +38,7 @@ Utility to convert between various proxy subscription formats.
 | Surge 3      |     ✓      |      ✓       | surge&ver=3 |
 | Surge 4      |     ✓      |      ✓       | surge&ver=4 |
 | V2Ray        |     ✓      |      ✓       | v2ray       |
+| Clash Meta vless|      come soon         | vless       |
 | Telegram-liked HTTP/Socks 5 links |     ✓      |      ×       | Only as source |
 
 Notice:
