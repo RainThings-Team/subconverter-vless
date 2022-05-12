@@ -1,3 +1,4 @@
+努力制作中，敬请期待
 # subconverter
 
 Utility to convert between various proxy subscription formats.
